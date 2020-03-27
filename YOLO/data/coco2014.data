@@ -1,0 +1,4 @@
+classes=80
+train=/home/maziar/WA/MLdata/github/yolov3/data/coco/trainvalno5k.txt
+valid=/home/maziar/WA/MLdata/github/yolov3/data/coco/5k.txt
+names=data/coco.names
